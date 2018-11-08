@@ -1,0 +1,14 @@
+Frame_Name	ID	left	top	right	bottom
+B_idle_right	10001	246	154	260	181				
+B_walk_right_1	10002	275	154	290	181
+B_walk_right_2	10003	304	154	321	181
+B_idle_left	10011	186	154	200	181
+B_walk_left_1	10012	155	154	170	181
+B_walk_left_2	10013	125	154	140	181
+S_idle_right	10021	247	0	259	15
+S_walk_right_1	10022	257	0	291	15
+S_walk_right_2	10023	306	0	320	15
+S_idle_left	10031	187	0	198	15
+S_walk_left_1	10032	155	0	170	15
+S_walk_left_2	10033	125	0	139	15
+S_Mario_die	10099	215	120	231	135

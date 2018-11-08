@@ -1,0 +1,9 @@
+Frame_Name	ID	left	top	right	bottom
+simon_idle	21001	12	4	44	63
+simon_walk_1	21002	78	2	102	63
+simon_walk_2	21003	136	4	166	63
+simon_walk_3	21004	196	3	220	63
+simon_jump	21020	252	1	284	47
+simon_attack_1	21051	312	4	360	63
+simon_attack_2	21052	373	4	405	63
+simon_attack_3	21053	421	6	463	63	
